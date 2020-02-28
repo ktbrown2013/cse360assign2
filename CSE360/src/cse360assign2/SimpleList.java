@@ -12,6 +12,8 @@
  * indeces if more than 25% are empty towards the end. The append method allows for the addition of
  * elements at the end of the list, while the first method returns the first item in the list and
  * the size method returns the length of the current list. 
+ * Github repository URL:
+ * https://github.com/ktbrown2013/cse360assign2/tree/master/CSE360/src/cse360assign2
  */
 
 package cse360assign2;
